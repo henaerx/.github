@@ -1,12 +1,2 @@
-## Hi there 👋
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+HenaerX基金会是非营利性的联盟，致力于促进Linux的发展，提供一个Linux作为协作和教育的平台，产生了原创性研究和相关内容，并通过这个平台促进Linux的发展。通过网络，每月大约有两百万网民接触到该基金会。它还通过举办合作活动促进创新- Linux技术社区，应用开发商，行业和最终用户解决Linux生态系统面临的紧迫问题，包括LinuxCon等。通过Linux基金会的合作计划，最终可以解决用户，开发和产业合作，技术，法律和宣传的问题。
+Linux基金会提供应用程序开发标准化服务和支持包括Linux标准基础，这使得Linux的更有吸引力，并为他们的发展努力。Linux基金会还提供了Linux开发社区服务，其中包括一个开源开发旅游基金，法律援助和其他行政援助。通过其工作组，成员和开发商合作，在关键技术领域，其中可以包括一切从云计算在Linux印刷。最后，用户可以通过它的Linux技术培训
